@@ -1,19 +1,19 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Weather",
+  "name": "Weather",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "https://github.com/vijesh0512/image/blob/main/WhatsApp%20Image%202024-08-02%20at%204.15.18%20PM.jpeg?raw=true" type="image/jpeg",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "https://github.com/vijesh0512/image/blob/main/WhatsApp%20Image%202024-08-02%20at%204.15.18%20PM.jpeg?raw=true" type="image/jpeg",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "https://github.com/vijesh0512/image/blob/main/WhatsApp%20Image%202024-08-02%20at%204.15.18%20PM.jpeg?raw=true" type="image/jpeg",
       "type": "image/png",
       "sizes": "512x512"
     }
@@ -21,5 +21,5 @@
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "background_color": "black"
 }
